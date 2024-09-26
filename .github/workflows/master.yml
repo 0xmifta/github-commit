@@ -34,7 +34,7 @@ jobs:
 
       - name: Setup Git Configuration
         run: |
-          git config user.email "nadivaaanggraini@gmail.com"
+          git config user.email "miftavirmala@gmail.com"
           git config user.name "0xmifta"
 
       - name: Prepare Commit
